@@ -21,13 +21,11 @@ const MyComp = ({record}) => {
     )
   })
   return (
-    
       <table>
       {
         result
       }
       </table>
-    
   )
 }
 
